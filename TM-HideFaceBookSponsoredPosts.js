@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Remove FB Sponsored Posts
-// @namespace    https://gist.github.com/CricketofLocusts/6109689af6c78b5e2ee23258970eaffa.js
+// @namespace    https://github.com/Hangar85/expert-enigma/blob/main/TM-HideFaceBookSponsoredPosts.js
 // @description  A Tampermonkey script to remove Sponsored posts from your newsfeed on Facebook.
 // @version      1.21
 // @author       Cricket
 // @include      https://www.facebook.com/?ref=tn_tnmn
 // @include      https://www.facebook.com
-// @require      http://code.jquery.com/jquery-latest.min.js
+// @require      https://github.com/Hangar85/expert-enigma/blob/main/Jquery-12092021.min.js
 // ==/UserScript==
 
 function CheckForADPosts()
